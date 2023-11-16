@@ -3,3 +3,5 @@ html{
   font-family: Sans-serif;
   font-style: bold; 
 }
+img{
+  display: flex;
